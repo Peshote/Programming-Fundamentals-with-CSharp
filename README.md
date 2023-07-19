@@ -21,3 +21,16 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(A)Lab/P11.%20Multiplication%20Table%202.0/Program.cs"> P11. Multiplication Table 2.0 </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(A)Lab/P12.%20Even%20Number/Program.cs"> P12. Even Number </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(A)Lab/P13.%20Holidays%20Between%20Two%20Dates/Program.cs"> P13. Holidays Between Two Dates </a>
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise"> 01. C# Fundamentals - Intro and Basic Syntax - (B)Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P01.%20Ages/Program.cs"> P01. Ages </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P02.%20Division/Program.cs"> P02. Division </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P03.%20Vacation/Program.cs"> P03. Vacation </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P04.%20Print%20and%20sum/Program.cs"> P04. Print and sum </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P05.%20Login/Program.cs"> P05. Login </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P06.%20Strong%20number/Program.cs"> P06. Strong number </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P07.%20Vending%20Machine/Program.cs"> P07. Vending Machine </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P08.%20Triangle%20of%20Numbers/Program.cs"> P08. Triangle of Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P09.%20Padawan%20Equipment/Program.cs"> P09. Padawan Equipment </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P10.%20Rage%20Expenses/Program.cs"> P10. Rage Expenses </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P11.%20Orders/Program.cs"> P11. Orders </a>  
