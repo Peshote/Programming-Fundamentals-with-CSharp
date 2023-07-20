@@ -34,3 +34,10 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P09.%20Padawan%20Equipment/Program.cs"> P09. Padawan Equipment </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P10.%20Rage%20Expenses/Program.cs"> P10. Rage Expenses </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(B)Exercise/P11.%20Orders/Program.cs"> P11. Orders </a>  
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise"> 01. C# Fundamentals - Intro and Basic Syntax - (C)More Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise/P01.%20Sort%20Numbers/Program.cs"> P01. Sort Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise/P02.%20English%20Name%20of%20the%20Last%20Digit/Program.cs"> P02. English Name of the Last Digit </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise/P03.%20Gaming%20Store/Program.cs"> P03. Gaming Store </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise/P04.%20Reverse%20String/Program.cs"> P04. Reverse String </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise/P05.%20Messages/Program.cs"> P05. Messages </a>
