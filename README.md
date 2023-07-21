@@ -41,3 +41,17 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise/P03.%20Gaming%20Store/Program.cs"> P03. Gaming Store </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise/P04.%20Reverse%20String/Program.cs"> P04. Reverse String </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/01.%20Fundamentals-Intro-and-Basic-Syntax-(C)More-Exercise/P05.%20Messages/Program.cs"> P05. Messages </a>
+   
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab"> 02. C# Fundamentals - Data Types and Variables - (A)Lab </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P01.%20Convert%20Meters%20to%20Kilometers/Program.cs"> P01. Convert Meters to Kilometers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P02.%20Pounds%20to%20Dollars/Program.cs"> P02. Pounds to Dollars </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P03.%20Exact%20Sum%20of%20Real%20Numbers/Program.cs"> P03. Exact Sum of Real Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P04.%20Centuries%20to%20Minutes/Program.cs"> P04. Centuries to Minutes </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P05.%20Special%20Numbers/Program.cs"> P05. Special Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P06.%20Reversed%20Chars/Program.cs"> P06. Reversed Chars </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P07.%20Concat%20Names/Program.cs"> P07. Concat Names </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P08.%20Town%20Info/Program.cs"> P08. Town Info </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P09.%20Chars%20to%20String/Program.cs"> P09. Chars to String </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P10.%20Lower%20or%20Upper/Program.cs"> P10. Lower or Upper </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P11.%20Refactor%20Volume%20of%20Pyramid/Program.cs"> P11. Refactor Volume of Pyramid </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P12.%20Refactor%20Special%20Numbers/Program.cs"> P12. Refactor Special Numbers </a>
