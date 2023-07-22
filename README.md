@@ -55,3 +55,16 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P10.%20Lower%20or%20Upper/Program.cs"> P10. Lower or Upper </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P11.%20Refactor%20Volume%20of%20Pyramid/Program.cs"> P11. Refactor Volume of Pyramid </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(A)Lab/P12.%20Refactor%20Special%20Numbers/Program.cs"> P12. Refactor Special Numbers </a>
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise"> 02. C# Fundamentals - Data Types and Variables - (B)Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P01.%20Integer%20Operations/Program.cs"> P01. Integer Operations </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P02.%20Sum%20Digits/Program.cs"> P02. Sum Digits </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P03.%20Elevator/Program.cs"> P03. Elevator </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P04.%20Sum%20of%20Chars/Program.cs"> P04. Sum of Chars </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P05.%20Print%20Part%20Of%20ASCII%20Table/Program.cs"> P05. Print Part Of ASCII Table </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P06.%20Triples%20of%20Latin%20Letters/Program.cs"> P06. Triples of Latin Letters </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P07.%20Water%20Overflow/Program.cs"> P07. Water Overflown </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P08.%20Beer%20Kegs/Program.cs"> P08. Beer Kegs </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P09.%20Spice%20Must%20Flow/Program.cs"> P09. Spice Must Flow </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P10.%20Poke%20Mon/Program.cs"> P10. Poke Mon </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P11.%20Snowballs/Program.cs"> P11. Snowballs </a>
