@@ -68,3 +68,11 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P09.%20Spice%20Must%20Flow/Program.cs"> P09. Spice Must Flow </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P10.%20Poke%20Mon/Program.cs"> P10. Poke Mon </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(B)Exercise/P11.%20Snowballs/Program.cs"> P11. Snowballs </a>
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise"> 02. C# Fundamentals - Data Types and Variables - (C)More Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P01.%20Data%20Type%20Finder/Program.cs"> P01. Data Type Finder </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P02.%20From%20Left%20to%20The%20Right/Program.cs"> P02. From Left to The Right </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P03.%20Floating%20Equality/Program.cs"> P03. Floating Equality </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P04.%20Refactoring%20-%20Prime%20Checker/Program.cs"> P04. Refactoring - Prime Checker </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P05.%20Decrypting%20Message/Program.cs"> P05. Decrypting Message </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P06.%20Balanced%20Brackets/Program.cs"> P06. Balanced Brackets </a>
