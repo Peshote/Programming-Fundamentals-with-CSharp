@@ -76,3 +76,13 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P04.%20Refactoring%20-%20Prime%20Checker/Program.cs"> P04. Refactoring - Prime Checker </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P05.%20Decrypting%20Message/Program.cs"> P05. Decrypting Message </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/02.%20Fundamentals-Data-Types-and-Variables-(C)More-Exercise/P06.%20Balanced%20Brackets/Program.cs"> P06. Balanced Brackets </a>
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/03.%20Fundamentals-Arrays-(A)Lab"> 03. C# Fundamentals - Arrays - (A)Lab </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P01.%20Day%20of%20Week/Program.cs"> P01. Day of Week </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P02.%20Print%20Numbers%20in%20Reverse%20Order/Program.cs"> P02. Print Numbers in Reverse Order </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P03.%20Rounding%20Numbers/Program.cs"> P03. Rounding Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P04.%20Reverse%20Array%20of%20Strings/Program.cs"> P04. Reverse Array of Strings </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P05.%20Sum%20Even%20Numbers/Program.cs"> P05. Sum Even Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P06.%20Even%20and%20Odd%20Subtraction/Program.cs"> P06. Even and Odd Subtraction </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P07.%20Equal%20Arrays/Program.cs"> P07. Equal Arrays </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P08.%20Condense%20Array%20to%20Number/Program.cs"> P08. Condense Array to Number </a>
