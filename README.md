@@ -86,3 +86,15 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P06.%20Even%20and%20Odd%20Subtraction/Program.cs"> P06. Even and Odd Subtraction </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P07.%20Equal%20Arrays/Program.cs"> P07. Equal Arrays </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(A)Lab/P08.%20Condense%20Array%20to%20Number/Program.cs"> P08. Condense Array to Number </a>
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/03.%20Fundamentals-Arrays-(B)Exercise"> 03. C# Fundamentals - Arrays - (B)Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P01.%20Train/Program.cs"> P01. Train </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P02.%20Common%20Elements/Program.cs"> P02. Common Elements </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P03.%20Zig-Zag%20Arrays/Program.cs"> P03. Zig-Zag Arrays </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P04.%20Array%20Rotation/Program.cs"> P04. Array Rotation </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P05.%20Top%20Integers/Program.cs"> P05. Top Integers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P06.%20Equal%20Sum/Program.cs"> P06. Equal Sum </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P07.%20Max%20Sequence%20of%20Equal%20Elements/Program.cs"> P07. Max Sequence of Equal Elements </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P08.%20Magic%20Sum/Program.cs"> P08. Magic Sum </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P09.%20Kamino%20Factory/Program.cs"> P09. Kamino Factory </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P10.%20LadyBugs/Program.cs"> P10. LadyBugs </a>
