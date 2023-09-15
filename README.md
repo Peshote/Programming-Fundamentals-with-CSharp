@@ -98,3 +98,10 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P08.%20Magic%20Sum/Program.cs"> P08. Magic Sum </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P09.%20Kamino%20Factory/Program.cs"> P09. Kamino Factory </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(B)Exercise/P10.%20LadyBugs/Program.cs"> P10. LadyBugs </a>
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/03.%20Fundamentals-Arrays-(C)More-Exercise"> 03. C# Fundamentals - Arrays - (C)More Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(C)More-Exercise/P01.%20Encrypt%2C%20Sort%20and%20Print%20Array/Program.cs"> P01. Encrypt, Sort and Print Array </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(C)More-Exercise/P02.%20Pascal%20Triangle/Program.cs"> P02. Pascal Triangle </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(C)More-Exercise/P03.%20Recursive%20Fibonacci/Program.cs"> P03. Recursive Fibonacci </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(C)More-Exercise/P04.%20Fold%20and%20Sum/Program.cs"> P04. Fold and Sum </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(C)More-Exercise/P05.%20Longest%20Increasing%20Subsequence/Program.cs"> P05. Longest Increasing Subsequence </a>
