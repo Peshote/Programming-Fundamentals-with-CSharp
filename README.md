@@ -105,3 +105,16 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(C)More-Exercise/P03.%20Recursive%20Fibonacci/Program.cs"> P03. Recursive Fibonacci </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(C)More-Exercise/P04.%20Fold%20and%20Sum/Program.cs"> P04. Fold and Sum </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/03.%20Fundamentals-Arrays-(C)More-Exercise/P05.%20Longest%20Increasing%20Subsequence/Program.cs"> P05. Longest Increasing Subsequence </a>
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/04.%20Fundamentals-Methods-(A)Lab"> 04. C# Fundamentals - Methods - (A)Lab </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P01.%20Sign%20of%20Integer%20Numbers/Program.cs"> P01. Sign of Integer Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P02.%20Grades/Program.cs"> P02. Grades </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P03.%20Calculations/Program.cs"> P03. Calculations </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P04.%20Printing%20Triangle/Program.cs"> P04. Printing Triangle </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P05.%20Orders/Program.cs"> P05. Orders </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P06.%20Calculate%20Rectangle%20Area/Program.cs"> P06. Calculate Rectangle Area </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P07.%20Repeat%20String/Program.cs"> P07. Repeat String </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P08.%20Math%20Power/Program.cs"> P08. Math Power </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P09.%20Greater%20of%20Two%20Values/Program.cs"> P09. Greater of Two Values </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P10.%20Multiply%20Evens%20by%20Odds/Program.cs"> P10. Multiply Evens by Odds </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P11.%20Math%20operations/Program.cs"> P11. Math operations </a>
