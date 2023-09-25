@@ -118,3 +118,16 @@ Using Visual Studio with .NET Core 3.1
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P09.%20Greater%20of%20Two%20Values/Program.cs"> P09. Greater of Two Values </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P10.%20Multiply%20Evens%20by%20Odds/Program.cs"> P10. Multiply Evens by Odds </a>
    * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(A)Lab/P11.%20Math%20operations/Program.cs"> P11. Math operations </a>
+
+<a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/tree/main/04.%20Fundamentals-Methods-(B)Exercise"> 04. C# Fundamentals - Methods - (B)Exercise </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P01.%20Smallest%20of%20Three%20Numbers/Program.cs"> P01. Smallest of Three Numbers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P02.%20Vowels%20Count/Program.cs"> P02. Vowels Count </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P03.%20Characters%20in%20Range/Program.cs"> P03. Characters in Range </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P04.%20Password%20Validator/Program.cs"> P04. Password Validator </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P05.%20Add%20and%20Subtract/Program.cs"> P05. Add and Subtract </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P06.%20Middle%20Characters/Program.cs"> P06. Middle Characters </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P07.%20NxN%20Matrix/Program.cs"> P07. NxN Matrix </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P08.%20Factorial%20Division/Program.cs"> P08. Factorial Division </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P09.%20Palindrome%20Integers/Program.cs"> P09. Palindrome Integers </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P10.%20Top%20Number/Program.cs"> P10. Top Number </a>
+   * <a href="https://github.com/Peshote/Programming-Fundamentals-with-CSharp/blob/main/04.%20Fundamentals-Methods-(B)Exercise/P11.%20Array%20Manipulator/Program.cs"> P11. Array Manipulator </a>
